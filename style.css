@@ -1,0 +1,45 @@
+h1{
+    color: yellow
+}
+
+
+
+.header{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+.header a{
+    color: white;
+    justify-content: space-evenly;
+    
+
+}
+
+.menu{
+    color:gold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.note{
+    color:gold;
+    display:flex;
+    justify-content: space-between;
+}
+
+.models{
+    color:gold;
+    display: flex;
+    justify-content: space-evenly;
+    font-style: italic;
+    text-align: center;
+    letter-spacing:0.1em;
+    margin: 1em;
+}
+
+body{
+
+    background-color: black;
+}
